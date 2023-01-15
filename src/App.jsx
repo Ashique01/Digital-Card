@@ -1,5 +1,4 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
+import React from 'react';
 import './App.css'
 import img from '../src/assets/img/me.jpg'
 import { FaFacebookF, FaLinkedin, FaGithub } from "react-icons/fa";
